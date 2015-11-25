@@ -1,9 +1,5 @@
-<html>
-	<head>
-		<title>CargoRider</title>
-			<meta charset="utf-8">	
-				</head>
-	<header>
+<!--<img src="../img/logo.png">-->
+<div id="logo"></div>
 		<nav>
 			<ul>
 				<li>Home</li>
@@ -12,6 +8,4 @@
 				<li>Logout</li>
 			</ul>
 		</nav>
-	</header>
-<body>
 

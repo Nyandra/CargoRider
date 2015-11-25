@@ -17,6 +17,11 @@ catch (PDOException $e){
 	include "../includes/einbindungen.php";
 ?>
 </head>
+<header>
+<?php
+	include "../includes/header.php";
+?>
+</header>
 <body>
 
 <?php
