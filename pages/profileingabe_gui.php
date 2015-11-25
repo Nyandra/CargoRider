@@ -30,18 +30,9 @@ if (isset($_GET['logout'])){
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Anmelden</title>
-
-<link rel="stylesheet" href="css/style_ausklappdiv.css">
-
-
-<script type="text/javascript" src="lib/jquery.js"></script> 
-<script type="text/javascript" src="lib/labs.js"></script>
-<script type="text/javascript" src="lib/jquery.raty.js"></script>	
-<script type="text/javascript" src="js/script_ausklappdiv.js"></script>
-<script type="text/javascript" src="js/script.js"></script>
-
+<?php
+	include "../includes/einbindungen.php";
+?>
 </head>
 <body>
 
